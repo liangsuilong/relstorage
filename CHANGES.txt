@@ -2,6 +2,7 @@
 -----------
 
 - MySQL 5.5: The test suite was freezing in checkBackwardTimeTravel. Fixed.
+- MySQL: Drop MyISAM as default storage engine in some MySQL tables.
 
 1.5.1 (2011-11-12)
 ------------------
